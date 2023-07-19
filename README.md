@@ -51,3 +51,13 @@ https://learn.microsoft.com/en-us/training/paths/build-first-machine-operations-
 - Deploy and maintain cloud-native apps with GitHub actions and Azure Pipelines
 https://learn.microsoft.com/en-us/training/modules/cna-deploy-maintain/
 
+- Orchestrate data movement and transformation in Azure Data Factory or Azure Synapse Pipeline
+https://learn.microsoft.com/en-us/training/modules/orchestrate-data-movement-transformation-azure-data-factory/
+
+- Create a build pipeline with Azure Pipelines
+https://learn.microsoft.com/en-us/training/modules/create-a-build-pipeline/
+
+- Machine learning with Azure Databricks
+https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-solutions-azure-databricks/
+
+
