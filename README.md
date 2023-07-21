@@ -8,6 +8,7 @@ Machine Learning Operations (MLOps) Challenge Machine learning operations (MLOps
 **2. Introduction to GitHub Copilot**
 
 **3. Introduction to DevOps principles for machine learning**
+- https://learn.microsoft.com/en-us/training/modules/introduction-development-operations-principles-for-machine-learn/4-integrate-azure-development-operations-tools
 
 **4. Explore Azure Machine Learning workspace resources and assets**
 
