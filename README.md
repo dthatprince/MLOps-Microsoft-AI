@@ -62,3 +62,7 @@ https://learn.microsoft.com/en-us/training/modules/create-a-build-pipeline/
 https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-solutions-azure-databricks/
 
 
+
+-  Machine Learning Engineering for Production (MLOps) Specialization
+https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210423-mlep-1-deeplearning-ai-institutions-dlai-website
+
