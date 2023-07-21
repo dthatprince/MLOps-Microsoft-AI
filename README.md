@@ -66,3 +66,5 @@ https://learn.microsoft.com/en-us/training/paths/build-operate-machine-learning-
 -  Machine Learning Engineering for Production (MLOps) Specialization
 https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210423-mlep-1-deeplearning-ai-institutions-dlai-website
 
+- MLOps Full Course | MLOps Tutorial For Beginners | Machine Learning Operations | Intellipaat
+https://www.youtube.com/watch?v=0Z0vZU6cMKY
