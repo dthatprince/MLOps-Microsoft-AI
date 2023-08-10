@@ -13,7 +13,8 @@ Machine Learning Operations (MLOps) Challenge Machine learning operations (MLOps
 **4. Explore Azure Machine Learning workspace resources and assets**
 
 **5. Explore developer tools for workspace interaction**
-
+- https://microsoftlearning.github.io/mslearn-azure-ml/
+  
 **6. Design a data ingestion strategy for machine learning projects**
 
 **7. Design a machine learning model training solution**
