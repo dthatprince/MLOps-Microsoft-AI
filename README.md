@@ -25,6 +25,7 @@ Machine Learning Operations (MLOps) Challenge Machine learning operations (MLOps
 
 **10. Use an Azure Machine Learning job for automation**
 - https://microsoftlearning.github.io/mslearn-mlops/
+- https://github.com/Azure/mlops-v2
   
 **11. Trigger Azure Machine Learning jobs with GitHub Actions**
 
